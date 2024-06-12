@@ -5,7 +5,7 @@ export default function Project() {
       <h2>My Projects</h2>
       <section>
         <div className="wrapper">
-          <img src="images/Project 1 - Software Requirement.png" alt="" width="400" height="225" className="row-image"></img>
+          <img src="./images/Project 1 - Software Requirement.png" alt="" width="400" height="225" className="row-image"></img>
           <div className="description">
             <h3 >Project 1 - Warehouse Management System Practise</h3>
             <p >In the class, I have done a project with my classmates to practise the actual flow of how a software is developed. 
@@ -17,7 +17,7 @@ export default function Project() {
       </section>
       <section>
         <div className="wrapper">
-          <img src="images/Project 2 - Music Database.png" alt="" width="400" height="225" className="row-image"></img>
+          <img src="./images/Project 2 - Music Database.png" alt="" width="400" height="225" className="row-image"></img>
           <div className="description">
             <h3>Project 2 - Music Database</h3>
             <p>This is a linux project called "Music Database". We have learned from online and used API, curl, and jq to complete 
@@ -28,7 +28,7 @@ export default function Project() {
       </section>
       <section>
         <div className="wrapper">
-          <img src="images/Project 3 - Bank Accounts.png" alt="" width="400" height="225" className="row-image"></img>
+          <img src="./images/Project 3 - Bank Accounts.png" alt="" width="400" height="225" className="row-image"></img>
           <div className="description">
             <h3>Project 3 - Bank Accounting System Practise</h3>
             <p>This is a C# project called "Bank Accounting System". My classmates and I had to divide the work into three and

@@ -11,7 +11,7 @@ export default function Services() {
         </p>
         <section>
             <div className="wrapper">
-                <img src="images/Service 1 - Web Development.jpg" alt="" width="400" height="225" className="row-image"></img>
+                <img src="./images/Service 1 - Web Development.jpg" alt="" width="400" height="225" className="row-image"></img>
                 <div className="description">
                     <h3>Web Development</h3>
                     <ul>
@@ -24,7 +24,7 @@ export default function Services() {
         </section>
         <section>
             <div className="wrapper">
-                <img src="images/Service 2 - Mobile App Development.png" alt="" width="400" height="225" className="row-image"></img>
+                <img src="./images/Service 2 - Mobile App Development.png" alt="" width="400" height="225" className="row-image"></img>
                 <div className="description">
                     <h3>Mobile App Development</h3>
                     <ul>
@@ -37,7 +37,7 @@ export default function Services() {
         </section>
         <section>
             <div className="wrapper">
-                <img src="images/Service 3 - General Programming.jpg" alt="" width="400" height="225" className="row-image"></img>
+                <img src="./images/Service 3 - General Programming.jpg" alt="" width="400" height="225" className="row-image"></img>
                 <div className="description">
                     <h3>General Programming</h3>
                     <ul>

@@ -3,7 +3,7 @@ export default function About() {
       <>
       <main>
         <h2>About Me</h2>
-        <img id="image" src="images/Selfie - Ho Ting Edmund Tsoi.jpg" alt="" width="250" height="330"></img>
+        <img id="image" src="./images/Selfie - Ho Ting Edmund Tsoi.jpg" alt="" width="250" height="330"></img>
         <p>
           My name is Ho Ting Edmund Tsoi, and I'm a software engineer with a passion for creating innovative and user-friendly technology solutions. 
           Although I haven&apos;t had any working experience, I have been kept developing my skills through coursework, group projects from college 

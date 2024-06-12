@@ -7,7 +7,7 @@ export default function Layout() {
       <link rel="icon" type="image/x-icon" href="favicon.ico"></link>
       <header>
         <div id="icon">
-          <img src="favicon.ico" alt="Website icon" width="120" height="100" />
+          <img src="./images/favicon.ico" alt="Website icon" width="120" height="100" />
           {/* h1 changes from "My Portfolio" to "Ho Ting Edmund Tsoi" */}
           <h1 id="website-name">Ho Ting Edmund Tsoi</h1>
         </div>
